@@ -1,0 +1,23 @@
+{
+  "name": "jestpractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dylanperera/jestPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dylanperera/jestPractice/issues"
+  },
+  "homepage": "https://github.com/dylanperera/jestPractice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.18.10",
+    "jest": "^28.1.3"
+  }
+}
